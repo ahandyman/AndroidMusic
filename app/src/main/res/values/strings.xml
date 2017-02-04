@@ -35,4 +35,15 @@
     <string name="favorite_7">4. Up late</string>
     <string name="favorite_8">5. Is it morning already</string>
 
+    <!-- DESCRIPTION  SONG ACTIVITY-->
+    <string name="description_activity_song">activity_songs.xml contains a list of song titles and corresponding dummy buttons. Songs are fictitious. While a toast message gets displayed, audio resource file is not linked, therefore songs are not played or heard. MediaPlayer Class is required to play media file</string>
+
+    <!-- DESCRIPTION PODCAST ACTIVITY-->
+    <string name="description_activity_podcast">activity_podcast.xml contains a list of podcast titles and corresponding dummy buttons. While a toast message gets displayed, audio resource file is not linked therefore podcasts are not played or heard. MediaPlayer Class is required to play media file</string>
+
+    <!-- DESCRIPTION FAVORITE ACTIVITY-->
+    <string name="description_activity_favorites">activity_favorites.xml contains a list of favorite song titles and corresponding dummy buttons. Songs are fictitious. While a toast message gets displayed, audio resource file is not linked songs are not played or heard. MediaPlayer Class is required to play media file</string>
+
+    <!-- DESCRIPTION MAIN ACTIVITY-->
+    <string name="description_activity_main">activity_main.xml contains 3 TextViews. Each TextView has an ID. In the MainActivity.java file the id is used to identify each TextView. Once that is done a setOnClickListener method is called and a new OnclickListener method is passed as a parameter. Within the OnClickListener Method an Intent is created. The Intent will change the activity. depending which TextView is clicked the startActivity() class changes Activity. Within the new activity the setContentView(R.layout.) will display a different layout</string>
 </resources>
