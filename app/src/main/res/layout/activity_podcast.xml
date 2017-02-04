@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_podcast"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.jamesmay.androidmusic.PodcastActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:src="@drawable/music_2" />
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_1" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_2" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_3" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_4" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_5" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_6" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_7" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/TrackLine">
+
+            <TextView
+                style="@style/TrackName"
+                android:text="@string/podcast_8" />
+
+            <Button
+                style="@style/TrackButton"
+                android:text="play" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

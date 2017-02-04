@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AndroidMusic</string>
+
+    <!-- ACTIVITY NAMES-->
+    <string name="activity_podcast">Podcasts</string>
+    <string name="activity_songs">Songs</string>
+    <string name="activity_albums">Albums</string>
+    <string name="activity_playlist">Playlist</string>
+    <string name="activity_favorites">Favorites</string>
+
+    <!-- PODCAST NAMES-->
+    <string name="podcast_1">1. NPR</string>
+    <string name="podcast_2">2. </string>
+    <string name="podcast_3">3.</string>
+    <string name="podcast_4">4.</string>
+    <string name="podcast_5">5.</string>
+    <string name="podcast_6">6.</string>
+    <string name="podcast_7">7.</string>
+    <string name="podcast_8">8.</string>
+
+    <!-- TRACK NAMES-->
+    <string name="track_1">1. </string>
+    <string name="track_2">2. </string>
+    <string name="track_3">3. </string>
+    <string name="track_4">4. </string>
+    <string name="track_5">5. </string>
+    <string name="track_6">6. </string>
+    <string name="track_7">7. </string>
+    <string name="track_8">8. </string>
+
+    <!-- ALBUMS NAMES-->
+    <string name="album_1">1. </string>
+    <string name="album_2">2. </string>
+    <string name="album_3">3. </string>
+    <string name="album_4">4. </string>
+    <string name="album_5">5. </string>
+    <string name="album_6">6. </string>
+    <string name="album_7">7. </string>
+    <string name="album_8">8. </string>
+
+</resources>

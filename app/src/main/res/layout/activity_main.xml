@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jamesmay.androidmusic.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:src="@drawable/music_2" />
+        <LinearLayout style="@style/ActivityTrackLine">
+
+            <TextView
+                android:id="@+id/activity_favorites"
+                style="@style/TrackName"
+                android:text="@string/activity_favorites" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/ActivityTrackLine">
+
+            <TextView
+                android:id="@+id/activity_songs"
+                style="@style/TrackName"
+                android:text="@string/activity_songs" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/ActivityTrackLine">
+
+            <TextView
+                android:id="@+id/activity_podcast"
+                style="@style/TrackName"
+                android:text="@string/activity_podcast" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>
