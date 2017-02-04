@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scaleType="centerCrop"
-            android:src="@drawable/music_2" />
+            android:src="@drawable/music_1_1" />
 
         <LinearLayout style="@style/TrackLine">
 

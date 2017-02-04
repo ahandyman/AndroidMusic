@@ -20,7 +20,8 @@
             android:label="@string/activity_podcast" />
         <activity
             android:name=".SongsActivity"
-            android:label="@string/activity_podcast" />
+            android:label="@string/activity_songs" />
+
         <activity android:name=".FavoritesActivity"
             android:label="@string/activity_favorites"></activity>
     </application>
