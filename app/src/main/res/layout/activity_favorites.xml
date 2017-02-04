@@ -21,9 +21,10 @@
 
             <TextView
                 style="@style/TrackName"
-                android:text="@string/podcast_1" />
+                android:text="@string/favorite_1" />
 
             <Button
+                android:id="@+id/favorite_btn_1"
                 style="@style/TrackButton"
                 android:text="play" />
 
@@ -33,9 +34,10 @@
 
             <TextView
                 style="@style/TrackName"
-                android:text="@string/podcast_2" />
+                android:text="@string/favorite_5" />
 
             <Button
+                android:id="@+id/favorite_btn_2"
                 style="@style/TrackButton"
                 android:text="play" />
 
@@ -45,45 +47,10 @@
 
             <TextView
                 style="@style/TrackName"
-                android:text="@string/podcast_3" />
+                android:text="@string/favorite_6" />
 
             <Button
-                style="@style/TrackButton"
-                android:text="play" />
-
-        </LinearLayout>
-
-        <LinearLayout style="@style/TrackLine">
-
-            <TextView
-                style="@style/TrackName"
-                android:text="@string/podcast_4" />
-
-            <Button
-                style="@style/TrackButton"
-                android:text="play" />
-
-        </LinearLayout>
-
-        <LinearLayout style="@style/TrackLine">
-
-            <TextView
-                style="@style/TrackName"
-                android:text="@string/podcast_5" />
-
-            <Button
-                style="@style/TrackButton"
-                android:text="play" />
-
-        </LinearLayout>
-
-        <LinearLayout style="@style/TrackLine">
-
-            <TextView
-                style="@style/TrackName"
-                android:text="@string/podcast_6" />
-
-            <Button
+                android:id="@+id/favorite_btn_3"
                 style="@style/TrackButton"
                 android:text="play" />
         </LinearLayout>
@@ -92,9 +59,10 @@
 
             <TextView
                 style="@style/TrackName"
-                android:text="@string/podcast_7" />
+                android:text="@string/favorite_7" />
 
             <Button
+                android:id="@+id/favorite_btn_4"
                 style="@style/TrackButton"
                 android:text="play" />
         </LinearLayout>
@@ -103,9 +71,10 @@
 
             <TextView
                 style="@style/TrackName"
-                android:text="@string/podcast_8" />
+                android:text="@string/favorite_8" />
 
             <Button
+                android:id="@+id/favorite_btn_5"
                 style="@style/TrackButton"
                 android:text="play" />
         </LinearLayout>

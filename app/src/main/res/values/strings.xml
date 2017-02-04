@@ -10,32 +10,29 @@
 
     <!-- PODCAST NAMES-->
     <string name="podcast_1">1. NPR</string>
-    <string name="podcast_2">2. </string>
-    <string name="podcast_3">3.</string>
-    <string name="podcast_4">4.</string>
-    <string name="podcast_5">5.</string>
-    <string name="podcast_6">6.</string>
-    <string name="podcast_7">7.</string>
-    <string name="podcast_8">8.</string>
+    <string name="podcast_2">2. Simple Programer</string>
+    <string name="podcast_3">3. Android Buffet</string>
+    <string name="podcast_4">4. This Week in Google</string>
+    <string name="podcast_5">5. Codepen Radio</string>
+    <string name="podcast_6">6. Small Talk</string>
+    <string name="podcast_7">7. Fragmented</string>
+    <string name="podcast_8">8. Android Developers Backstage</string>
 
     <!-- TRACK NAMES-->
-    <string name="track_1">1. </string>
-    <string name="track_2">2. </string>
-    <string name="track_3">3. </string>
-    <string name="track_4">4. </string>
-    <string name="track_5">5. </string>
-    <string name="track_6">6. </string>
-    <string name="track_7">7. </string>
-    <string name="track_8">8. </string>
+    <string name="track_1">1. Learning to Walk</string>
+    <string name="track_2">2. My heart beats for you</string>
+    <string name="track_3">3. This old pickup</string>
+    <string name="track_4">4. Staring at my screen</string>
+    <string name="track_5">5. Talking to myself</string>
+    <string name="track_6">6. Laptop Confessions</string>
+    <string name="track_7">7. Late night blues</string>
+    <string name="track_8">8. memes and gifs</string>
 
-    <!-- ALBUMS NAMES-->
-    <string name="album_1">1. </string>
-    <string name="album_2">2. </string>
-    <string name="album_3">3. </string>
-    <string name="album_4">4. </string>
-    <string name="album_5">5. </string>
-    <string name="album_6">6. </string>
-    <string name="album_7">7. </string>
-    <string name="album_8">8. </string>
+    <!-- FAVORTIE TITLE NAMES-->
+    <string name="favorite_1">1. The Coding Song</string>
+    <string name="favorite_5">2. Fun with Udacity</string>
+    <string name="favorite_6">3. Learning to fail: A success story</string>
+    <string name="favorite_7">4. Up late</string>
+    <string name="favorite_8">5. Is it morning already</string>
 
 </resources>
